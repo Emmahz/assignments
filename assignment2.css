@@ -1,0 +1,33 @@
+.grid{
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+    column-gap: 2px;
+    row-gap: 50px;
+   padding: 100px; 
+}
+.div1{
+   background-color: palegreen;
+    height: 300px;
+    width: 300px;
+    
+}
+.div2{
+    background-color: greenyellow;
+    height: 300px;
+    width: 300px;
+}
+.div3{
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}
+.div4{
+    background-color: rgb(35, 73, 155);
+    height: 300px;
+    width: 300px;
+}
+.div5{
+    background-color: rgb(151, 49, 151);
+    height: 300px;
+    width: 300px;
+}
